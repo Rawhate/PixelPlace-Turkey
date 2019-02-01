@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         PixelTr Minimap
+// @name         PixelPlace Turkey Minimap
 // @namespace    http://discord.io/pixeltr
 // @version      1.0
 // @description  Turkey PixelPlace
