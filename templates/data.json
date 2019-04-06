@@ -1,9 +1,9 @@
 {
-  "TrZoneMerkez": {
-    "name": "merkez.png",
+  "Desupalette": {
+    "name": "desupalette.png",
     "x": 1739,
     "y": 138,
-    "width": 377,
-    "height": 279
+    "width": 5820,
+    "height": -10290
   }
 }
