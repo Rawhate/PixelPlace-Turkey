@@ -4,11 +4,11 @@
 // @version      1.0
 // @description  Turkey PixelPlace
 // @author       eksotik
-// @match        https://pixelplace.fun/*
-// @match        http://pixelplace.fun/*
+// @match        https://pixelplanet.fun/*
+// @match        http://pixelplanet.fun/*
 // @homepage     https://github.com/eksotikk/PixelPlace-Turkey
-// @updateURL    https://raw.githubusercontent.com/eksotikk/PixelPlace-Turkey/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/eksotikk/PixelPlace-Turkey/master/minimap.user.js
+// @updateURL    https://raw.githubusercontent.com/Rawhate/PixelPlace-Turkey/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/Rawhate/PixelPlace-Turkey/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -17,7 +17,7 @@
 //https://raw.githubusercontent.com/user/repository/branch/filename
 //https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/README.md
 
-window.baseTepmlateUrl = 'https://github.com/eksotikk/PixelPlace-Turkey/master';
+window.baseTepmlateUrl = 'https://github.com/Rawhate/PixelPlace-Turkey/master';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
